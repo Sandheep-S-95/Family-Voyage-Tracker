@@ -18,15 +18,20 @@
 
 ## Screenshots 📸
 
-1. **Home Page**
-   [Insert screenshot here]
+1. **Map View (USER 1)**
+   <br/>
+   <img align="left" alt="Coding" width="300" src="https://github.com/user-attachments/assets/954efee2-52d6-4943-a99a-c5ea3c0641b4">
+   <br/><br/><br/><br/><br/><br/><br/>
 
-2. **Map View**
-   [Insert screenshot here]
+2. **Map View (USER 2)**
+   <br/>
+   <img align="left" alt="Coding" width="300" src="https://github.com/user-attachments/assets/d83c2748-0796-4648-a1c7-bf1206a878a7">
+   <br/><br/><br/><br/><br/><br/><br/>
 
-3. **Destination Form**
-   [Insert screenshot here]
-
+3. **Add Member Form**
+   <br/>
+   <img align="left" alt="Coding" width="300" src="https://github.com/user-attachments/assets/b788f641-418c-42e2-b457-c33b74134dc1">
+   <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Installation & Setup ⚙️
 
 1. **Clone the repository**:
