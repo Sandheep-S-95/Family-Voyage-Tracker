@@ -60,10 +60,8 @@
 
 ## REST API Endpoints 🌐
 
-* **GET /destinations**: Fetch all travel destinations.
-* **POST /destination**: Add a new destination.
-* **PUT /destination/:id**: Update an existing destination.
-* **DELETE /destination/:id**: Delete a destination.
+* **GET /**: Fetch all travel destinations.
+* **POST /**: Add a new member.
 
 ## License 📜
 
